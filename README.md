@@ -12,4 +12,5 @@ The site is incapable of saving any type of user information, being just a study
 
 ## Preview
 
-![j](https://github.com/user-attachments/assets/a7929761-5a10-4d9f-8874-fd042456c664)
+
+![j](https://github.com/user-attachments/assets/5a71c75a-0de9-41ca-b7ef-b7506ba28b26)
